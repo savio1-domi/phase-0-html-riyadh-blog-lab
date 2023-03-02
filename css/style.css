@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../color/backgrounds/black#) center no-repeat;
+  background: url(../color/backgrounds/) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
